@@ -3,6 +3,7 @@
 A simple, elegant, and responsive Notes App built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete notes, all stored locally in the browser using localStorage. Designed with a modern dark UI and a clean minimalistic layout inspired by Frey-like aesthetics.
 
 ✨ Features
+
 📌 Add new notes with ease
 
 ✏️ Edit existing notes with a single click
@@ -16,6 +17,7 @@ A simple, elegant, and responsive Notes App built using HTML, CSS, and JavaScrip
 💡 Responsive layout with smooth hover transitions and intuitive interactions
 
 🚀 Technologies Used
+
 HTML5
 
 CSS3 (Dark theme with modern design)
